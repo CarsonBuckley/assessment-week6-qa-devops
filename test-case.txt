@@ -1,0 +1,15 @@
+﻿Robot game:
+
+
+Test case:
+* Click ‘draw’ button
+* Choose 2 bots by clicking ‘add to duo’ buttons on each bot you choose
+* Click ‘remove from duo’ button to remove a bot from your duo if you want to pick a different bot
+* Click ‘duel’ button after you have 2 bots in your duo
+* Wait about 2 seconds to allow the game to process the outcome of the duel
+* Observe result of the duel
+* Click ‘play again!’ Button to restart the game and go through the process again
+
+
+Bug found:
+It always adds 1 to the loss count even if you win
